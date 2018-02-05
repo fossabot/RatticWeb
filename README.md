@@ -2,6 +2,7 @@ RatticWeb
 =========
 
 Build Status: [![Build Status](https://travis-ci.org/tildaslash/RatticWeb.png?branch=master)](https://travis-ci.org/tildaslash/RatticWeb)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2FRatticWeb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2FRatticWeb?ref=badge_shield)
 
 RatticWeb is the website part of the Rattic password management solution, which allows you to easily manage your users and passwords.
 
@@ -18,3 +19,7 @@ Support and Known Issues:
 
 Dev Setup: <https://github.com/tildaslash/RatticWeb/wiki/Development>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2FRatticWeb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2FRatticWeb?ref=badge_large)
